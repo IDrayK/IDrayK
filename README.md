@@ -1,6 +1,6 @@
 ## Prazer, eu sou o IDrayK!
   
-- 🔭 Estou em busca da minha primeira oportunidade na área de Dev
+- 🧑‍💻 Suporte ServiceDesk na Atos!
 - 📖 Estudande de Analise e Desenvolvimento de Sistemas - Unifil
 
 ##
